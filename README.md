@@ -4,7 +4,7 @@
 July 20, 2021.
 
 ### Project Title
-Post Your US Bikesharing Work on Github
+Post the US Bikesharing Work on Github
 
 ### Description
 In this project, I simulated a realistic workflow to refactor my previous BikeShare project using Git. Here's an overview of my tasks for this project:
