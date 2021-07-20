@@ -16,7 +16,6 @@ Merge Branches
 
 ```
 
-
 ### Files used
 
     This file contains necessary commands used to do tasks:
