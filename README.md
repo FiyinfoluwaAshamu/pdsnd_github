@@ -12,19 +12,15 @@ Set Up my Repository
 Improve Documentation
 Refactor mycode
 Merge Branches
-```
-
-```
 
 ### Files used
 
-    This file contains necessary commands used to do tasks:
-        Git Commands Documentation.pdf
-    This file helps to understand the Git key terms:
-        Git-KeyTerms.pdf
+This file contains necessary commands used to do tasks:
+  Git Commands Documentation.pdf
+This file helps to understand the Git key terms:
+  Git-KeyTerms.pdf
 
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-https://github.com/udacity/pdsnd_github
 https://git-scm.com/docs/gitignore#_pattern_format
