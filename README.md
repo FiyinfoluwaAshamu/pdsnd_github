@@ -10,7 +10,7 @@ Post Your US Bikesharing Work on Github
 In this project, I simulated a realistic workflow to refactor my previous BikeShare project using Git. Here's an overview of my tasks for this project:
 Set Up my Repository
 Improve Documentation
-Refactor mycode
+Refactor my-code
 Merge Branches
 
 ### Files used
